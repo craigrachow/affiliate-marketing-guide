@@ -26,7 +26,7 @@ Most important step as this is what drives the seatch engines, holds the readers
 
 | Key Elements of Great Content  | |
 | ------------- | ------------- |
-| Matches searchers intent  | Content Cell  |
+| Matches searchers intent  | Make sure your page contains content that the users expect. We want them to stay on the site and click more links |
 | Unique content | Make sure content is not a duplication of another page, blog post. Even if its your own! |
 | Real insight and expierence  | Readers want trusted knowlegde and real life examples  |
 | Good understanding and well researched  | Do as much research as possilble, learn the topic  |
