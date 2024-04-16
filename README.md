@@ -24,9 +24,9 @@ Feedback welcome & if you like, please consider coffee.
 ## Content Creation
 Most important step as this is what drives the seatch engines, holds the readers interestes and converts sales.
 
-| Key Elements  | Second Header |
+| Key Elements of Great Content  | |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Matches searchers intent  | Content Cell  |
 | Content Cell  | Content Cell  |
 matches searches intent, uniqueu content, real insight and expierence, good understanding and well reseached, included keyaords from the keywor research, provides answer to what people are seatching for, well formatted, includes supporting images and video, 
  
