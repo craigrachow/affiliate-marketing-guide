@@ -1,3 +1,7 @@
+<p align="center">
+    [<img src="https://github.com/craigrachow/affiliate-marketing-guide/images/header.png?raw=true">](https://github.com/craigrachow/affiliate-marketing-guide)
+</p> 
+
 # Affiliate Marketing Guide
 This page is my guide on the process and tools nessesary to research, plan and implemente a affiliate markerting website.
 Feedback welcome & if you like, please consider coffee. 
