@@ -8,11 +8,12 @@ Feedback welcome & if you like, please consider coffee.
 
 # Index
 - [Find a Niche](#find-a-niche)
-    - [Idea Brainstorming](#idea-brainstorming)
+    - [Idea Brainstorming](##idea-brainstorming)
 
 
+## Find a Niche
 
-## Idea Brainstorming
+### Idea Brainstorming
 
 | First Header  | Second Header |
 | ------------- | ------------- |
