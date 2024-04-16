@@ -22,9 +22,9 @@ Feedback welcome & if you like, please consider coffee.
 
 
 ## Content Creation
+Most important step as this is what drives the seatch engines, holds the readers interestes and converts sales.
 
-### Key Elements of Great Coneent that ranks. 
-| First Header  | Second Header |
+| Key Elements  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
