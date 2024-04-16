@@ -1,6 +1,6 @@
+# Affiliate Marketing Guide
 [<img src="https://github.com/craigrachow/affiliate-marketing-guide/blob/main/images/header.png?raw=true">](https://github.com/craigrachow/affiliate-marketing-guide)
 <p align="center">
-# Affiliate Marketing Guide
 This page is my guide on the process and tools nessesary to research, plan and implemente a affiliate markerting website.
 Feedback welcome & if you like, please consider coffee.     
 </p> 
