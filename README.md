@@ -5,6 +5,13 @@ This page is my guide on the process and tools nessesary to research, plan and i
 Feedback welcome & if you like, please consider coffee.     
 </p> 
 
+
+# Index
+- [Find a Niche](#find-a-niche)
+    - [Idea Brainstorming](#idea-brainstorming)
+
+
+
 ## Idea Brainstorming
 
 | First Header  | Second Header |
@@ -13,7 +20,7 @@ Feedback welcome & if you like, please consider coffee.
 | Content Cell  | Content Cell  |
 
 
-# Content
+# Index
 - [Affiliation](#affiliation)
     - [Affiliation Platform](#affiliationplatform)
     - [Affiliation Program](#affiliationprogram)
