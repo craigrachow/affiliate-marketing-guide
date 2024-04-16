@@ -27,8 +27,12 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Key Elements of Great Content  | |
 | ------------- | ------------- |
 | Matches searchers intent  | Content Cell  |
-| Content Cell  | Content Cell  |
-matches searches intent, uniqueu content, real insight and expierence, good understanding and well reseached, included keyaords from the keywor research, provides answer to what people are seatching for, well formatted, includes supporting images and video, 
+| Unique content | Make sure content is not a duplication of another page, blog post. Even if its your own! |
+| Real insight and expierence  | Readers want trusted knowlegde and real life examples  |
+| Good understanding and well researched  | Do as much research as possilble, learn the topic  |
+| Include Keywords  | Naturally include keywords from keyword research in the headings, sub headings and text.   |
+| Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
+| Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
  
 ## Affiliation
 ### Affiliation Platform
