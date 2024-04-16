@@ -1,5 +1,5 @@
 <p align="center">
-    [<img src="https://github.com/craigrachow/affiliate-marketing-guide/images/header.png">](https://github.com/craigrachow/affiliate-marketing-guide)
+    [<img src="https://github.com/craigrachow/affiliate-marketing-guide/blob/main/images/header.png?raw=true">](https://github.com/craigrachow/affiliate-marketing-guide)
 </p> 
 
 # Affiliate Marketing Guide
