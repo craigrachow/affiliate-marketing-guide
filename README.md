@@ -9,7 +9,7 @@ Feedback welcome & if you like, please consider coffee.
 # Index
 - [Find a Niche](#find-a-niche)
     - [Idea Brainstorming](##idea-brainstorming)
-
+- [Content Creation](##Content-Creation)
 
 ## Find a Niche
 
@@ -21,10 +21,14 @@ Feedback welcome & if you like, please consider coffee.
 | Content Cell  | Content Cell  |
 
 
-# Index
-- [Affiliation](#affiliation)
-    - [Affiliation Platform](#affiliationplatform)
-    - [Affiliation Program](#affiliationprogram)
+## Content Creation
+
+### Key Elements of Great Coneent that ranks. 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+matches searches intent, uniqueu content, real insight and expierence, good understanding and well reseached, included keyaords from the keywor research, provides answer to what people are seatching for, well formatted, includes supporting images and video, 
  
 ## Affiliation
 ### Affiliation Platform
