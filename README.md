@@ -18,7 +18,14 @@ Feedback welcome & if you like, please consider coffee.
 Improve Your Website's Visibility with Over 50 SEO Tools to Track Issues and Boost Search Engine Rankings.
 https://www.seofreetools.eu/
 
-
+# Content
+- [Affiliation](#affiliation)
+    - [Affiliation Platform](#affiliationplatform)
+    - [Affiliation Program](#affiliationprogram)
+ 
+## Affiliation
+### Affiliation Platform
+- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.  
 
 # SEO Free Tools
 Improve Your Website's Visibility with Over 50 SEO Tools to Track Issues and Boost Search Engine Rankings.
