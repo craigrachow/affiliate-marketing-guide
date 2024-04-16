@@ -8,8 +8,8 @@ Feedback welcome & if you like, please consider coffee.
 
 # Index
 - [Find a Niche](#find-a-niche)
-    - [Idea Brainstorming](##idea-brainstorming)
-- [Content Creation](##Content-Creation)
+    - [Idea Brainstorming](#idea-brainstorming)
+- [Content Creation](#Content-Creation)
 
 ## Find a Niche
 
