@@ -22,13 +22,16 @@ Feedback welcome & if you like, please consider coffee.
 - - Implementing Ad's Affiliate links
 
 ## Find a Niche
-
 ### Idea Brainstorming
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+maybe change to idea phase and planning phase is after.   
+
+## Keywords Tools
 
 
 ## Content Creation
@@ -59,6 +62,10 @@ Submit sitemap to google seach console (link)
 Quora - 
 pintress - 
 
+## Ongoing
+Keywords, page management tools, linking, posting, engagnemtn etc etc. 
+
+
 ### END
 ### END
 ### END
@@ -83,9 +90,9 @@ https://www.seofreetools.eu/
 ## Maximize Revenue Tools
 
 
-## Keywords Tools
 
-## Backlink Tools
+
+
 
 ## Website Management Tools
 
