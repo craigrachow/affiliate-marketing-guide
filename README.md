@@ -80,7 +80,7 @@ Submit sitemap to google seach console (link)
 ## Backlinks
 Quora - 
 pintress - 
-
+Guest Post - Write to website owner asking the following. Hi [name], i love your website especially {xxx]. Im Craig from [myy website]. I was wondering if you accept guest posts, i would love to swap posts to get backlinks. I have a few ideas [xxx]   
 - Article Rewriter  
 
 
