@@ -62,6 +62,8 @@ How to [achieve a desired outcome]
 [number or how to] simple/easy ways to [achieve a desired outcome] [challenge]
 [number] reasons you're [not achieving a desired outcome]
 
+TEMPLATES (put in box)
+Review Template - 3:47:50 of the video
 
 ## Images Editing Tools
 
