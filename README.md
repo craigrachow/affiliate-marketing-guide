@@ -44,10 +44,21 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
 | Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
 
+## YoastSEO  
+Install and active Yoast plugin.  
+Follow the Yoast settings to optermise your post/pages off-page SEO. eg. Title, Meta Description, 
+Ensure all items are green.  
+
+## Site Kit Google
+Install Google Site Kit plugin. Configure Adsense and Analytics integrations. Its failry simple, just follow the prompts.  
+
 
 ### END
 ### END
 ### END
+### END
+### END
+### END  
  
 ## Affiliation
 ### Affiliation Platform
