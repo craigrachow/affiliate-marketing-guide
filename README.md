@@ -31,8 +31,17 @@ Feedback welcome & if you like, please consider coffee.
 
 maybe change to idea phase and planning phase is after.   
 
+## Feasability
+### Affiliation Platform
+- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.  
 ## Keywords Tools
-
+- keword research
+   - bes/op/comparasions/liss/reviews/
+   - eg, bes 9produc9 for 9user0 9ear0, 9produc vs 9produc0,
+   - find lower dificull kewords, save 5 x5 for each websie
+   - domain raing lows good , low dificul good, low backlinks good, high cr good
+   - look a sies and work ou if i can bea heir pages/poss
+kwfinder for keyword research
 
 # Content Creation
 Most important step as this is what drives the seatch engines, holds the readers interestes and converts sales.
@@ -46,6 +55,16 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Include Keywords  | Naturally include keywords from keyword research in the headings, sub headings and text.   |
 | Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
 | Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
+
+
+How to [achieve a desired outcome]
+[numbeer] proven [actions/ways] to [achieve desired results]
+[number or how to] simple/easy ways to [achieve a desired outcome] [challenge]
+[number] reasons you're [not achieving a desired outcome]
+
+
+## Images Editing Tools
+
 
 ### YoastSEO  
 Install and active Yoast plugin.  
@@ -62,9 +81,15 @@ Submit sitemap to google seach console (link)
 Quora - 
 pintress - 
 
+- Article Rewriter  
+
+
 ## Ongoing
 Keywords, page management tools, linking, posting, engagnemtn etc etc. 
+chatgpt - ask it to beat a current snippit, give it my page data and the snippit and winning page data. 
 
+## Good Resouces
+YouTube - How to Build a $1000+/Month Affiliate Marketing Website (Make Passive Income Online) - https://youtu.be/PvHi3Dk91Jw?si=5P94-ne7exk9t4YJ
 
 ### END
 ### END
@@ -73,41 +98,21 @@ Keywords, page management tools, linking, posting, engagnemtn etc etc.
 ### END
 ### END  
  
-## Affiliation
-### Affiliation Platform
-- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.  
+
+
 
 # SEO Free Tools
 Improve Your Website's Visibility with Over 50 SEO Tools to Track Issues and Boost Search Engine Rankings.
 https://www.seofreetools.eu/
 
-## Text Content Tools 
-- Plagiarism Checker
-- Article Rewriter
-- Word Counter
-
-
-## Maximize Revenue Tools
-
-
-
 
 
 
 ## Website Management Tools
-
 ## Website Tracking Tools
-
-
 ## Proxy Tools
-
-
 ## Domains Tools
-
-
 ## Meta Tags Tools
-
-## Images Editing Tools
 
 
 ## Other Tools
@@ -139,27 +144,12 @@ lis on 35min
 --88process 88--
 - do google research on each sie idea. wha he are promoing and pages and headdings ec
 - save 5 compediors
-- keword research
-   - bes/op/comparasions/liss/reviews/
-   - eg, bes 9produc9 for 9user0 9ear0, 9produc vs 9produc0,
-   - find lower dificull kewords, save 5 x5 for each websie
-   - domain raing lows good , low dificul good, low backlinks good, high cr good
-   - look a sies and work ou if i can bea heir pages/poss
 
 
 
 
 
-pintress
-kwfinder for keyword research
-wordpress -- yost seo xml sitemap - 
-How to [achieve a desired outcome]
-[numbeer] proven [actions/ways] to [achieve desired results]
-[number or how to] simple/easy ways to [achieve a desired outcome] [challenge]
-[number] reasons you're [not achieving a desired outcome]
-
-chatgpt - ask it to beat a current snippit, give it my page data and the snippit and winning page data. 
 
 
-## Good Resouces
-YouTube - How to Build a $1000+/Month Affiliate Marketing Website (Make Passive Income Online) - https://youtu.be/PvHi3Dk91Jw?si=5P94-ne7exk9t4YJ
+
+
