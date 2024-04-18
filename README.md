@@ -9,7 +9,17 @@ Feedback welcome & if you like, please consider coffee.
 # Index
 - [Find a Niche](#find-a-niche)
     - [Idea Brainstorming](#idea-brainstorming)
+    - fesiable? ad's etc etc
+    - keyword research
+- Website Creation
+    - domain name
+    - hosting
+    - cms setup
+    - themes
+    - plugins
 - [Content Creation](#Content-Creation)
+- Search Engine Optermisation (SEO)
+- - Implementing Ad's Affiliate links
 
 ## Find a Niche
 
