@@ -52,6 +52,12 @@ Ensure all items are green.
 ## Site Kit Google
 Install Google Site Kit plugin. Configure Adsense and Analytics integrations. Its failry simple, just follow the prompts.  
 
+## Sitemap Submission
+Submit sitemap to google seach console (link)
+
+## Backlinks
+Quora - 
+pintress - 
 
 ### END
 ### END
@@ -135,9 +141,18 @@ lis on 35min
 
 
 
-333 jobs for work 3443
-new shares - check all
-brisbane bonucing las monhda
+
+
+pintress
+kwfinder for keyword research
+wordpress -- yost seo xml sitemap - 
+How to [achieve a desired outcome]
+[numbeer] proven [actions/ways] to [achieve desired results]
+[number or how to] simple/easy ways to [achieve a desired outcome] [challenge]
+[number] reasons you're [not achieving a desired outcome]
+
+chatgpt - ask it to beat a current snippit, give it my page data and the snippit and winning page data. 
+
 
 ## Good Resouces
 YouTube - How to Build a $1000+/Month Affiliate Marketing Website (Make Passive Income Online) - https://youtu.be/PvHi3Dk91Jw?si=5P94-ne7exk9t4YJ
