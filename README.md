@@ -33,14 +33,14 @@ maybe change to idea phase and planning phase is after.
 
 ## Feasability
 ### Affiliation Platform
-- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.  
+- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.
+- fiver, 
 ## Keywords Tools
-- keword research
-   - bes/op/comparasions/liss/reviews/
-   - eg, bes 9produc9 for 9user0 9ear0, 9produc vs 9produc0,
-   - find lower dificull kewords, save 5 x5 for each websie
-   - domain raing lows good , low dificul good, low backlinks good, high cr good
-   - look a sies and work ou if i can bea heir pages/poss
+- keyword research
+   - best/top/comparasions/list/reviews... eg, best [products for [use] [year], [product] vs [product]
+   - find lower difficult keywords, save 5 for each website idea. 
+   - when searching for keywords domain rating lows good such as 30 or less , low difficulty good, low backlinks good, high cr good.  
+   - look a sites and work out if i can beat their pages and posts.
 kwfinder for keyword research
 
 # Content Creation
