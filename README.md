@@ -43,6 +43,11 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Include Keywords  | Naturally include keywords from keyword research in the headings, sub headings and text.   |
 | Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
 | Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
+
+
+### END
+### END
+### END
  
 ## Affiliation
 ### Affiliation Platform
