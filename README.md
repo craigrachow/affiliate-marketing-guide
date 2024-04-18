@@ -21,8 +21,8 @@ Feedback welcome & if you like, please consider coffee.
 - Search Engine Optermisation (SEO)
 - - Implementing Ad's Affiliate links
 
-## Find a Niche
-### Idea Brainstorming
+# Find a Niche
+## Idea Brainstorming
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -34,7 +34,7 @@ maybe change to idea phase and planning phase is after.
 ## Keywords Tools
 
 
-## Content Creation
+# Content Creation
 Most important step as this is what drives the seatch engines, holds the readers interestes and converts sales.
 
 | Key Elements of Great Content  | |
@@ -47,15 +47,15 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
 | Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
 
-## YoastSEO  
+### YoastSEO  
 Install and active Yoast plugin.  
 Follow the Yoast settings to optermise your post/pages off-page SEO. eg. Title, Meta Description, 
 Ensure all items are green.  
 
-## Site Kit Google
+### Site Kit Google
 Install Google Site Kit plugin. Configure Adsense and Analytics integrations. Its failry simple, just follow the prompts.  
 
-## Sitemap Submission
+### Sitemap Submission
 Submit sitemap to google seach console (link)
 
 ## Backlinks
