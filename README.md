@@ -43,6 +43,7 @@ maybe change to idea phase and planning phase is after.
    - look a sites and work out if i can beat their pages and posts.
 kwfinder for keyword research
 https://answerthepublic.com/
+https://trends.google.com/
 
 # Website Creation
 ## Content Creation
