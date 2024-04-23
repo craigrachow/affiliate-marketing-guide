@@ -1,8 +1,8 @@
 # Affiliate Marketing Guide
 [<img src="https://github.com/craigrachow/affiliate-marketing-guide/blob/main/images/header.png?raw=true">](https://github.com/craigrachow/affiliate-marketing-guide)
 <p align="center">
-This page is my guide on the process and tools nessesary to research, plan and implemente a affiliate markerting website.
-Feedback welcome & if you like, please consider coffee.     
+This page is my guide on the process and tools nessesary to research, plan and implement a affiliate markerting website.
+Feedback Welcome. And if this page was helpful, please consider buying me a coffee.     
 </p> 
 
 
@@ -10,15 +10,15 @@ Feedback welcome & if you like, please consider coffee.
 - [Find a Niche](#find-a-niche)
     - [Idea Brainstorming](#idea-brainstorming)
     - fesiable? ad's etc etc
-    - keyword research
-- Website Creation
+    - [Keyword Research](#keyword-research)
+- [Website Creation](#website-creation)
     - domain name
     - hosting
     - cms setup
     - themes
     - plugins
 - [Content Creation](#Content-Creation)
-- Search Engine Optermisation (SEO)
+- [Search Engine Optermisation (SEO)](#seo)
 - - Implementing Ad's Affiliate links
 
 # Find a Niche
@@ -43,7 +43,8 @@ maybe change to idea phase and planning phase is after.
    - look a sites and work out if i can beat their pages and posts.
 kwfinder for keyword research
 
-# Content Creation
+# Website Creation
+## Content Creation
 Most important step as this is what drives the seatch engines, holds the readers interestes and converts sales.
 
 | Key Elements of Great Content  | |
