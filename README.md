@@ -42,6 +42,7 @@ maybe change to idea phase and planning phase is after.
    - when searching for keywords domain rating lows good such as 30 or less , low difficulty good, low backlinks good, high cr good.  
    - look a sites and work out if i can beat their pages and posts.
 kwfinder for keyword research
+https://answerthepublic.com/
 
 # Website Creation
 ## Content Creation
@@ -148,6 +149,7 @@ lis on 35min
 - do google research on each sie idea. wha he are promoing and pages and headdings ec
 - save 5 compediors
 
+-- One Page Template -- 
 
 
 
