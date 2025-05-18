@@ -59,7 +59,62 @@ Most important step as this is what drives the seatch engines, holds the readers
 | Provide answers | Provide answers to what people are searching for. Eg check out google what people are searching for.  |
 | Well formatted with supporting visuals | We want readers to stay on the site. Make the content easy for humans to read and include images, video and references |
 
+## Skeliton Creation  
+"You are my Senior Conversion Copywriter.
 
+Goal  
+Craft a first-draft homepage for [[YOUR BUSINESS NAME]], a business offering [[SERVICES HERE]], that:  
+• Opens with a results-focused promise and positions the CLIENT—not the business—as the hero.  
+• Speaks in the real words our ideal clients use.  
+• Follows homepage best-practice layout proven for this industry.
+
+Deep-Research Instructions  
+1. *Industry best practices* – In the background, scan recent high-converting homepages for businesses like mine. List the elements, order, and tone that drive the most leads.  
+2. *Voice of Customer (VoC)* – Mine public forums, Reddit threads, Quora, Google & Yelp reviews, Facebook groups, and blog comments where *[[IDEAL CLIENT TYPE]]* talk about:  
+   • Their top problems and frustrations  
+   • Their dream outcomes  
+   • Exact phrases, metaphors, and questions they use  
+3. *Competitive gap* – Note what most competitors over-emphasize (themselves) and under-emphasize (client results), then explain how we’ll flip that script.
+
+Before you write  
+Ask me any follow-up questions *one round only* to fill unavoidable gaps (e.g., unique mechanism, proof, service area, guarantees, simple testimonial snippets). Keep it to ≤ 5 quick questions.
+
+Research Output (work silently—do *NOT* reveal raw URLs)  
+• Bullet summary of industry homepage best practices  
+• Top 10 VoC phrases grouped by theme (problem / desire)  
+• 3-point competitive gap insight
+
+Homepage Draft Requirements  
+• Use the structure below (sections in CAPS).  
+• Make every section speak to “you” (the client) and show how we guide them to the result.  
+• Work at an 7th-grade reading level, clear and conversational.  
+• Keep paragraphs 2-3 lines max.  
+• Weave in at least 6 VoC phrases naturally.  
+• Close with a single clear CTA button label: **[[CALL-TO-ACTION]]**.
+
+Formatting Instructions:
+• Each section should be separated by a line break.
+• Do not include section labels like “hero,” “problem,” etc.
+• The only label should be the actual client-facing headline for each section. Make sure it aligns 100% with the content that follows.
+• For each section, give an image suggestion that helps tell the story visually. Keep the visual emphasis on the client.
+
+STRUCTURE  
+1. HERO HEADLINE – Big result in one line  
+2. SUPPORTING SUBHEAD – Empathy + outcome in plain words (1-2 short sentences max)
+3. CALL TO ACTION BUTTON - Indicative of what the next step actually is (not 'Contact Us', etc)    
+4. PROBLEM SECTION – Bring up the main problem they have and agitate it with symptoms of how that problem affects their day to day life  
+5. SOLUTION SECTION – Introduce the business/service as the ultimate solution that fixes it. Suggest an image of the business owner/team to build trust/rapport.  
+6. 3 BENEFITS – Title each as the actual benefit, then allude to the feature that makes it possible in a short description. Give simple image suggestions for each.   
+7. SOCIAL PROOF SECTION – logos or short testimonial snippets    
+8. CTA BLOCK – Button + urgency/benefit line  
+9. FAQ – 3 concise Q&As that remove last-minute doubts
+
+Deliverables  
+1. Two headline options  
+2. Finished homepage copy following the structure above  
+
+Begin."
+//END PROMPT 
 How to [achieve a desired outcome]
 [numbeer] proven [actions/ways] to [achieve desired results]
 [number or how to] simple/easy ways to [achieve a desired outcome] [challenge]
